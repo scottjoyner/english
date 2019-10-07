@@ -68,6 +68,19 @@ work on the current change (see also: git help everyday)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 ```
+First we want to create a folder to hold our git repositories
+```
+cd ~/
+mkdir git
+cd git
+```
+Now we are inside of our new directory called git
+lets create a new folder called helloworld and move into the directory
+```
+mkdir helloworld
+cd helloworld
+```
+
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
 A: Navigate [here](https://oit.ncsu.edu/my-it/unity-credentials/ "Unity Credentials") to find information about your unity id, password and more. 
