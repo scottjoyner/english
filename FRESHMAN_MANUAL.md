@@ -111,6 +111,14 @@ Lets write a commit message to tell people what we did
 ```
 git commit -am "Added new README file to repository"
 ```
+Now that we have added our commit message we are ready to push the new git repository to a github account. Entering the git push command will bring up a prompt for a username and password. This is the same as the login you used to access your account online. Git will ask if you would like to store your password, this option is up to you; however, it is less secure.
+```
+git push
+unityid
+password
+```
+
+
 
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
