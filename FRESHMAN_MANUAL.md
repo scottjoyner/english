@@ -15,6 +15,12 @@ Navigate to Spotlight at the top right and type in terminal.
 Once you are in the shell you are going to have to type some commands. You may copy and paste, but make sure you understand what you are installing onto your device.
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install git
+git --version
+```
+Expected
+```
+git version 2.xx.x (Apple Git-113)
 ```
 #### Notes to Windows 10 Users
 Recomended Downloads
