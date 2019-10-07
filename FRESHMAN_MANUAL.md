@@ -103,7 +103,15 @@ Lets add a few lines to the README.md file
 ## <unityid>
 Write about your class here.
 ```
+Now save this change and exit your text editor. Next lets add our file to the repository
+```
+git add README.md
+```
+Lets write a commit message to tell people what we did
+```
+git commit -am "Added new README file to repository"
+```
+
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
 A: Navigate [here](https://oit.ncsu.edu/my-it/unity-credentials/ "Unity Credentials") to find information about your unity id, password and more. 
-
