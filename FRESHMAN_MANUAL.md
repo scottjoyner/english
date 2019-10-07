@@ -80,6 +80,11 @@ lets create a new folder called helloworld and move into the directory
 mkdir helloworld
 cd helloworld
 ```
+Now we are finally ready to initialize our git repository.
+```
+git init
+```
+This should tell you that you have initialized an empty git repository. 
 
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
