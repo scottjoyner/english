@@ -85,7 +85,24 @@ Now we are finally ready to initialize our git repository.
 git init
 ```
 This should tell you that you have initialized an empty git repository. 
-
+If you want to see what files were created you can input this command to see the .git directory that was initialized.
+```
+ls -hf
+```
+Lets add a new file to this repository to tell people what it is for.
+In your terminal you will need to create a new file using a command.
+```
+// Initializes  the file
+touch README.md
+// Edit the file using a text editor 
+nano README.md
+```
+Lets add a few lines to the README.md file
+```
+# Hello World
+## <unityid>
+Write about your class here.
+```
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
 A: Navigate [here](https://oit.ncsu.edu/my-it/unity-credentials/ "Unity Credentials") to find information about your unity id, password and more. 
