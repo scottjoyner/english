@@ -8,6 +8,29 @@ https://github.ncsu.edu/login
 This guide will walk you through the steps to installing git on your local machine, logging onto and getting comfortable using basic git functionality including how to store projects, mananage versions, and push new changes to your code. 
 Introduction paragraph after the title that describes: (a) the activity that will be completed, (b) why the activity is important, and (c) what prior knowledge may be needed in order to complete the activity. This should be concise and straight-to-the-point.
 Description or List of Equipment and/or List of Materials
+## Tools
+- Git
+- Text Editor
+- Console (CLI)
+## Git commands
+Check git version
+```
+git --verison
+```
+Create a new git folder to store all your git projects
+```
+cd ~/
+mkdir git
+cd git
+```
+Now that you are in your git projects folder we need to make a new project. There are two ways to create a new project.
+1. create a new repo on the command line using the command
+```
+git init
+```
+2. Navigate to [NC States repository](https://github.ncsu.edu/login "Github NCSU Login Page")
+Login using your Unity ID and password
+In the top right hand corner of the page there is a + icon next to 
 
 #### Notes to Mac Users
 If you haven't installed brew install it now.
@@ -24,10 +47,10 @@ git version 2.xx.x (Apple Git-113)
 ```
 #### Notes to Windows 10 Users
 Recomended Downloads
-[Git for Windows](https://git-scm.com/ "Local Git management tool")
-[PUTTY] (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html "Latest Release Download link")
+- [Git for Windows](https://git-scm.com/ "Local Git management tool")
+- [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html "Latest Release Download link") SSH client to connect to host: remote.eos.ncsu.edu username 
 #### Notes to Linux Users
-- Depending on your distribution the commands will be different refer to [this website] (http://linuxbsdos.com/2017/01/23/how-to-install-and-configure-git-on-your-favorite-linux-distribution/ "Git install Guide") for distro dependant configs.
+- Depending on your distribution the commands will be different refer to [this website](http://linuxbsdos.com/2017/01/23/how-to-install-and-configure-git-on-your-favorite-linux-distribution/ "Git install Guide") for distro dependant configs.
 
 
 If your task is strictly computer-based, you would have a list of equipment, including such items as any necessary software (including version) and the type of computer required (Mac, PC, Linux, etc.).
