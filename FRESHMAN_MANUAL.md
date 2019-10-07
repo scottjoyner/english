@@ -119,7 +119,22 @@ password
 ```
 Now navigate back to your browser, refresh the page listing your repositories, did you see the new respository helloworld added to your account? Great! you are on the way to learning mroe about git commands.
 
+Example
+```
+…or create a new repository on the command line
 
+echo "# engine-v2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/scottjoyner/engine-v2.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/scottjoyner/engine-v2.git
+git push -u origin master
+```
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
 A: Navigate [here](https://oit.ncsu.edu/my-it/unity-credentials/ "Unity Credentials") to find information about your unity id, password and more. 
