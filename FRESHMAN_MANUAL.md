@@ -117,7 +117,7 @@ git push
 unityid
 password
 ```
-
+Now navigate back to your browser, refresh the page listing your repositories, did you see the new respository helloworld added to your account? Great! you are on the way to learning mroe about git commands.
 
 
 ### Troubleshooting Common Issues
