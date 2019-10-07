@@ -4,13 +4,13 @@ New students to NC State are tasked with getting set up in a variety of logistic
 ## Audience Analysis 
 My audience in this document is the incomming students to NC State who wish to learn computer science here at NC state think of it like a README.md file for incomming CSC students. I would like to lay out common problems and solutions that the freshman will run into. Furthermore I would like it to be a guide to understanding how to navigate their major and understand how important it can be to plan the right schedule. These students mostly will be knowledgeable about computers, but will likely be inable to operate a terminal, understand basic unix commands, or even know what a GUI is. These are all things that I will need to consider when writing my Instruction manual for freshman.
 
-Q: What is your audience’s expected purpose and scope for these instructions?
-A: The pourpose of these instructions is for them to install git on their local machine and be able to make a new repository on their newly accessed github account.
-Q: What knowledge does your audience have already about this topic?
-A: Some have very little, some have none, some have been using it for a while, but could always use a refresher on how to manage a repository.
-Q: What is your audience’s motivation for reading these instructions?
-A: They are probaly assigned to do this for their introductory computer science course. CSC 116, 216, or even 316 E 115 Students would be a reach audience.
-Q: What limitations might your audience have in terms of understanding these instructions?
-A: There are so many factors to consider in this case. The operating system presents huge differences in the setup processes and the issues faced with each of them can be difficult to resolve without backround knowledge of what is going on. It is really easy to mess things up without knowing what you did and then it could take them hours to figure out what they did wrong, probably going to a TA for help who doesn't teach the student what they did wrong. This causes some people to get scared of using git becasue they are afraid they will mess something up.
-Q: What is your audience’s attitude towards these instructions?
-A: They will probably want to get through them in as little time as possible, but will not have a lot of incentive to do so unil a deadline when they franticly find this document detailing how to install git depending on your computer.
+- Q: What is your audience’s expected purpose and scope for these instructions?
+  A: The pourpose of these instructions is for them to install git on their local machine and be able to make a new repository on their newly accessed github account.
+- Q: What knowledge does your audience have already about this topic?
+  A: Some have very little, some have none, some have been using it for a while, but could always use a refresher on how to manage a repository.
+- Q: What is your audience’s motivation for reading these instructions?
+- A: They are probaly assigned to do this for their introductory computer science course. CSC 116, 216, or even 316 E 115 Students would be a reach audience.
+- Q: What limitations might your audience have in terms of understanding these instructions?
+  A: There are so many factors to consider in this case. The operating system presents huge differences in the setup processes and the issues faced with each of them can be difficult to resolve without backround knowledge of what is going on. It is really easy to mess things up without knowing what you did and then it could take them hours to figure out what they did wrong, probably going to a TA for help who doesn't teach the student what they did wrong. This causes some people to get scared of using git becasue they are afraid they will mess something up.
+- Q: What is your audience’s attitude towards these instructions?
+- A: They will probably want to get through them in as little time as possible, but will not have a lot of incentive to do so unil a deadline when they franticly find this document detailing how to install git depending on your computer.
