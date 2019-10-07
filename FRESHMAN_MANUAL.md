@@ -7,15 +7,15 @@ https://github.ncsu.edu/login
 # Title (formatted like a Heading Level 1 from the style guide) that identifies the activity.
 Introduction paragraph after the title that describes: (a) the activity that will be completed, (b) why the activity is important, and (c) what prior knowledge may be needed in order to complete the activity. This should be concise and straight-to-the-point.
 Description or List of Equipment and/or List of Materials
-### Materials
-- Computer
-  - Mac, Windows, Linux
+
+#### Notes to Mac Users
+
+#### Notes to Windows 10 Users
+#### Notes to Linux Users
+
+- Mac, Windows, Linux
 - Software
-  - Comand Line Interface
-  - ssh access
-  - 
-- 
-- 
+
 If your task is strictly computer-based, you would have a list of equipment, including such items as any necessary software (including version) and the type of computer required (Mac, PC, Linux, etc.).
     The actual step-by-step directions, separated into tasks.
     Every step should:
@@ -29,10 +29,16 @@ If your task is strictly computer-based, you would have a list of equipment, inc
     Citation(s) for images. If you created all the images for the document, indicate as such.
 ### Task List
 - [ ] 1. Navigate to [github.ncsu.edu]
-- [ ] 2. Login using your 
-- [ ] 3. 
+- [ ] 2. Login using your ncsu email and password
+- [ ] 3. Navigate to your homepage and see what repositories you have.
 - [ ] 4. 
 
 ### Troubleshooting Common Issues
 Q: What is my Unity ID? How do I find my password? How to reset password? 
 A: Navigate [here](https://oit.ncsu.edu/my-it/unity-credentials/ "Unity Credentials") to find information about your unity id, password and more. 
+#### Mac
+
+#### Windows
+
+#### Linux
+
