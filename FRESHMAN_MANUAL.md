@@ -22,7 +22,7 @@ If your task is strictly computer-based, you would have a list of equipment, inc
 ### Task List
 - [ ] 1. Navigate to [github.ncsu.edu]
 ![alt text][logo]
-[/]
+[Screenshot_2019-10-07 Build software better, together.png]
 - [ ] 2. Login using your ncsu email and password
 - [ ] 3. Navigate to your homepage and see what repositories you have.
 - [ ] 4. 
