@@ -1,9 +1,15 @@
 # Project 2: Instructions
 
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** This README contains course assignment instructions and audience analysis for an academic writing project. It is a historical coursework artifact, not an application installation guide.
-> 
-> **How to use:** Review the assignment's original source/link and the written material; do not infer an executable project or current university policy from the text.
+## Repository guide
+
+**Repository context:** This README contains course assignment instructions and audience analysis for an academic writing project. It is a historical coursework artifact, not an application installation guide.
+
+**How to use:** Review the assignment's original source/link and the written material; do not infer an executable project or current university policy from the text.
+
+### Find your way
+
+- [Audience Analysis](#audience-analysis)
 <!-- repo-entrypoint-guide:end -->
 
  See Link for Assignmnet Details [https://eng331phelps.wordpress.ncsu.edu/assignment-overviews/project-2/]
